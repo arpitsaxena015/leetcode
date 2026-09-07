@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/arpitsaxena015/leetcode/tree/master/0009-palindrome-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/arpitsaxena015/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/arpitsaxena015/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Binary Search
