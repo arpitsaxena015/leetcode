@@ -84,10 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/arpitsaxena015/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0968-binary-tree-cameras](https://github.com/arpitsaxena015/leetcode/tree/master/0968-binary-tree-cameras) |
 | [1382-balance-a-binary-search-tree](https://github.com/arpitsaxena015/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0968-binary-tree-cameras](https://github.com/arpitsaxena015/leetcode/tree/master/0968-binary-tree-cameras) |
 | [1382-balance-a-binary-search-tree](https://github.com/arpitsaxena015/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/arpitsaxena015/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0968-binary-tree-cameras](https://github.com/arpitsaxena015/leetcode/tree/master/0968-binary-tree-cameras) |
 | [1382-balance-a-binary-search-tree](https://github.com/arpitsaxena015/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Counting
 |  |
@@ -107,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/arpitsaxena015/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0968-binary-tree-cameras](https://github.com/arpitsaxena015/leetcode/tree/master/0968-binary-tree-cameras) |
+## DP on Trees
+|  |
+| ------- |
+| [0968-binary-tree-cameras](https://github.com/arpitsaxena015/leetcode/tree/master/0968-binary-tree-cameras) |
 <!---LeetCode Topics End-->
