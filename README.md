@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/arpitsaxena015/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/arpitsaxena015/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/arpitsaxena015/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3483-unique-3-digit-even-numbers](https://github.com/arpitsaxena015/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/arpitsaxena015/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/arpitsaxena015/leetcode/tree/master/0013-roman-to-integer) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/arpitsaxena015/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [3483-unique-3-digit-even-numbers](https://github.com/arpitsaxena015/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -124,4 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/arpitsaxena015/leetcode/tree/master/0014-longest-common-prefix) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/arpitsaxena015/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/arpitsaxena015/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
