@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/arpitsaxena015/leetcode/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/arpitsaxena015/leetcode/tree/master/0027-remove-element) |
 | [0658-find-k-closest-elements](https://github.com/arpitsaxena015/leetcode/tree/master/0658-find-k-closest-elements) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/arpitsaxena015/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/arpitsaxena015/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/arpitsaxena015/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/arpitsaxena015/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Stack
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/arpitsaxena015/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
