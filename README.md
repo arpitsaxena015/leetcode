@@ -92,11 +92,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/arpitsaxena015/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/arpitsaxena015/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0968-binary-tree-cameras](https://github.com/arpitsaxena015/leetcode/tree/master/0968-binary-tree-cameras) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/arpitsaxena015/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1382-balance-a-binary-search-tree](https://github.com/arpitsaxena015/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0968-binary-tree-cameras](https://github.com/arpitsaxena015/leetcode/tree/master/0968-binary-tree-cameras) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/arpitsaxena015/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1382-balance-a-binary-search-tree](https://github.com/arpitsaxena015/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/arpitsaxena015/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/arpitsaxena015/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0968-binary-tree-cameras](https://github.com/arpitsaxena015/leetcode/tree/master/0968-binary-tree-cameras) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/arpitsaxena015/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1382-balance-a-binary-search-tree](https://github.com/arpitsaxena015/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Counting
 |  |
@@ -150,4 +153,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/arpitsaxena015/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/arpitsaxena015/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 <!---LeetCode Topics End-->
