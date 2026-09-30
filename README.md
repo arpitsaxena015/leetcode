@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/arpitsaxena015/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/arpitsaxena015/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0965-univalued-binary-tree](https://github.com/arpitsaxena015/leetcode/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/arpitsaxena015/leetcode/tree/master/0968-binary-tree-cameras) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/arpitsaxena015/leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/arpitsaxena015/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0965-univalued-binary-tree](https://github.com/arpitsaxena015/leetcode/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/arpitsaxena015/leetcode/tree/master/0968-binary-tree-cameras) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/arpitsaxena015/leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/arpitsaxena015/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/arpitsaxena015/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/arpitsaxena015/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0965-univalued-binary-tree](https://github.com/arpitsaxena015/leetcode/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/arpitsaxena015/leetcode/tree/master/0968-binary-tree-cameras) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/arpitsaxena015/leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/arpitsaxena015/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -156,5 +159,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/arpitsaxena015/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0965-univalued-binary-tree](https://github.com/arpitsaxena015/leetcode/tree/master/0965-univalued-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/arpitsaxena015/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 <!---LeetCode Topics End-->
