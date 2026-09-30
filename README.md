@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/arpitsaxena015/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/arpitsaxena015/leetcode/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/arpitsaxena015/leetcode/tree/master/0070-climbing-stairs) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/arpitsaxena015/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/arpitsaxena015/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Binary Search
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/arpitsaxena015/leetcode/tree/master/0070-climbing-stairs) |
 | [0968-binary-tree-cameras](https://github.com/arpitsaxena015/leetcode/tree/master/0968-binary-tree-cameras) |
 ## DP on Trees
 |  |
@@ -161,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/arpitsaxena015/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0965-univalued-binary-tree](https://github.com/arpitsaxena015/leetcode/tree/master/0965-univalued-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/arpitsaxena015/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/arpitsaxena015/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
