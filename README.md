@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/arpitsaxena015/leetcode/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/arpitsaxena015/leetcode/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/arpitsaxena015/leetcode/tree/master/0027-remove-element) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/arpitsaxena015/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0658-find-k-closest-elements](https://github.com/arpitsaxena015/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/arpitsaxena015/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/arpitsaxena015/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/arpitsaxena015/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/arpitsaxena015/leetcode/tree/master/0013-roman-to-integer) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/arpitsaxena015/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/arpitsaxena015/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3483-unique-3-digit-even-numbers](https://github.com/arpitsaxena015/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Heap (Priority Queue)
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/arpitsaxena015/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/arpitsaxena015/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/arpitsaxena015/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Greedy
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/arpitsaxena015/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/arpitsaxena015/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/arpitsaxena015/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/arpitsaxena015/leetcode/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/arpitsaxena015/leetcode/tree/master/0968-binary-tree-cameras) |
@@ -116,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/arpitsaxena015/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/arpitsaxena015/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/arpitsaxena015/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/arpitsaxena015/leetcode/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/arpitsaxena015/leetcode/tree/master/0968-binary-tree-cameras) |
