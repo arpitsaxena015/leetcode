@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/arpitsaxena015/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/arpitsaxena015/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3483-unique-3-digit-even-numbers](https://github.com/arpitsaxena015/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3834-merge-adjacent-equal-elements](https://github.com/arpitsaxena015/leetcode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/arpitsaxena015/leetcode/tree/master/0143-reorder-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/arpitsaxena015/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [3834-merge-adjacent-equal-elements](https://github.com/arpitsaxena015/leetcode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/arpitsaxena015/leetcode/tree/master/0070-climbing-stairs) |
+## Simulation
+|  |
+| ------- |
+| [3834-merge-adjacent-equal-elements](https://github.com/arpitsaxena015/leetcode/tree/master/3834-merge-adjacent-equal-elements) |
 <!---LeetCode Topics End-->
